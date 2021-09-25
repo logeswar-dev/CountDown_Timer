@@ -1,3 +1,3 @@
 # CountDown_Timer
 
-Bluit using HTML, CSS, JavaScript
+Built using HTML, CSS, JavaScript
